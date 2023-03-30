@@ -14,7 +14,7 @@ const projects = [
   {
     name: "Virtual Reality Racing Game",
     description: "Independently built Virtual Reality hover bike racing game in Unity with C#.",
-    image: "/VRHoverBike.jpg",
+    image: "/VRHoverBike.png",
     github: "https://github.com/BrandonWalker7/VRHoverBike",
   },
   {
