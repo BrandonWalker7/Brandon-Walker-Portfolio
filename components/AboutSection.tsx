@@ -18,6 +18,7 @@ const skills = [
   { skill: "Azure" },
   { skill: ".Net Framework" },
   { skill: "Unity3D" },
+  { skill: "Agile Development Strategies" },
 ]
 
 const AboutSection = () => {
